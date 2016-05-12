@@ -1,0 +1,3 @@
+[submodule "mapknitter"]
+	path = mapknitter
+	url = https://github.com/icarito/mapknitter
